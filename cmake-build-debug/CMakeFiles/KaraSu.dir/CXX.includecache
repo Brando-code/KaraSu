@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/brando/CLionProjects/KaraSu/IO_data.hpp
+sstream
+-
+fstream
+/home/brando/CLionProjects/KaraSu/fstream
+vector
+-
+iostream
+-
+string
+-
+
+/home/brando/CLionProjects/KaraSu/coloring.hpp
+graph.hpp
+/home/brando/CLionProjects/KaraSu/graph.hpp
+
+/home/brando/CLionProjects/KaraSu/graph.hpp
+vector
+-
+IO_data.hpp
+/home/brando/CLionProjects/KaraSu/IO_data.hpp
+
+/home/brando/CLionProjects/KaraSu/main.cpp
+iostream
+-
+graph.hpp
+/home/brando/CLionProjects/KaraSu/graph.hpp
+IO_data.hpp
+/home/brando/CLionProjects/KaraSu/IO_data.hpp
+coloring.hpp
+/home/brando/CLionProjects/KaraSu/coloring.hpp
+

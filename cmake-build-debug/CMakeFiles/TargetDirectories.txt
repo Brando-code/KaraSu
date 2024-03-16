@@ -1,0 +1,3 @@
+/home/brando/CLionProjects/KaraSu/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/brando/CLionProjects/KaraSu/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/brando/CLionProjects/KaraSu/cmake-build-debug/CMakeFiles/KaraSu.dir
