@@ -41,7 +41,7 @@ step 1: Find the degree of each node.
 
 <div style="display: flex; align-items: flex-start;">
   <div>
-    <img src="./Images/WP-step1.png" alt="Step 1" width="150">
+    <img src="./Images/WP-step1.png" alt="Step 1" width="400">
   </div>
   <div>
 
@@ -64,7 +64,7 @@ step 3: Colour the first vertex with green color.
 
 <div style="display: flex; align-items: flex-start;">
   <div>
-    <img src="./Images/WP-step2.png" alt="Descrizione immagine" width="150">
+    <img src="./Images/WP-step2.png" alt="Descrizione immagine" width="400">
   </div>
   <div>
 
@@ -85,7 +85,7 @@ step 4: Colour the first node in the list with yellow color.
 
 <div style="display: flex; align-items: flex-start;">
   <div>
-    <img src="./Images/WP-step3.png" alt="Descrizione immagine" width="150">
+    <img src="./Images/WP-step3.png" alt="Descrizione immagine" width="400">
   </div>
   <div>
 
@@ -104,7 +104,7 @@ step 5: Colour last node with blue color.
 
 <div style="display: flex; align-items: flex-start;">
   <div>
-    <img src="./Images/WP-step4.png" alt="Descrizione immagine" width="150">
+    <img src="./Images/WP-step4.png" alt="Descrizione immagine" width="400">
   </div>
   <div>
 
