@@ -125,9 +125,9 @@ Designed in 1979 by Howard Guns and published by Dell Magazine with the Name Num
 
 In its original version, Sudoku is a number-based logic game played on a $9 \times 9$ grid, which is further divided into nine $3 \times 3$ squares. The goal of the game is to fill all the cells in the grid with numbers from 1 to $9$ while adhering to a few key rules: each number can appear only once in every row, column, and $3 \times 3$ sub-grid.
 
-<img src="./Images/sudoku_solution.pdf" alt="sudoku" width="200">
+<img src="./Images/sudoku_solution.png" alt="sudoku" width="500">
 
-<img src="./Images/sudoku_rules-1.pdf" alt="sudoku grid" width="200">
+<img src="./Images/sudoku_rules-1.png" alt="sudoku grid" width="500">
 
 
 Sudoku does not require advanced mathematical skills, only logic and deduction, as the player must identify the missing numbers based on the ones already present. At the start of the game, some of the grid's cells are pre-filled, and the player must use this information to complete the rest of the puzzle.
@@ -140,7 +140,7 @@ This problem can be modeled as a graph where:
 
 Once the graph is constructed, the Sudoku puzzle becomes a vertex coloring problem for the graph. In this case, the colors are the numbers from $1$ to $9$, and the objective is to assign a number to each vertex such that adjacent vertices (i.e., those connected by an edge) do not share the same number, just as required by the rules of Sudoku.
 
-<img src="./Images/Sudoku_graph.png" alt="sudoku graph" width="200">
+<img src="./Images/Sudoku_graph.png" alt="sudoku graph" width="500">
 
 In this model:
 - The graph has **81 vertices** (one for each cell).
